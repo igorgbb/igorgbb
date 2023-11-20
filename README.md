@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igorgbb
-- 👀 I’m interested in Data Analysis, Backend Development, Web Development
-- 🌱 I’m currently learning Ruby on Rails
+- 👀 I’m interested in Web Application Development
+- 🌱 I’m currently learning DJANGO, VUE
 - 💞️ I’m looking to collaborate on anything!
 
 <!---
